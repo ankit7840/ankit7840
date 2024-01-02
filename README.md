@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">"I'm a MERN stack sorcerer, conjuring MongoDB, Express.js, React, and Node.js spells to craft web wonders with effortless client-server dances!"</h3>
 
-<img align ="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align ="left" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit7840&label=Profile%20views&color=0e75b6&style=flat" alt="ankit7840" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ankit7840&label=Profile%20views&color=0e75b6&style=flat" alt="ankit7840" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit7840" alt="ankit7840" /></a> </p>
 
