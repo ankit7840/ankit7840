@@ -52,6 +52,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ankit7840&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
+![Snake animation](https://github.com/ankit7840/ankit7840/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 
 
