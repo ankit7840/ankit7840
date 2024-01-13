@@ -46,6 +46,41 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ⏳  Longest streak is 5 days
 <!-- TODO-IST:END -->
 
+---
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Ankit Kumar
+located_in: Jamshedpur, India
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Developer ",
+    "Bachelor's in Computer Science and Engineering from NIT JAMSHEDPUR",
+  ]
+company: ZYCUS
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Mobile Development",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "Open-Source",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+  ]
+  
+currently_learning: ["Backend-Nodejs, Mern-Stack , and Next-Js"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
+```
+  
+---  
 
 📈 my github stats
 
