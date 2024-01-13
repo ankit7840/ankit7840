@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">"I'm a MERN stack sorcerer, conjuring MongoDB, Express.js, React, and Node.js spells to craft web wonders with effortless client-server dances!"</h3>
 
-<img align ="left" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ankit7840&label=Profile%20views&color=0e75b6&style=flat" alt="ankit7840" /> </p>
 
