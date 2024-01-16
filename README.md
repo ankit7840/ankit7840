@@ -3,7 +3,7 @@ hi, i'm [Ankit Kumar](https://ankit7840.me/), a passionate self-taught full stac
 i am also an open-source enthusiast and web developer..
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="250" />
   
 - 💼 any  kind of collaboration work? do reach, [email](mailto:2020ugcs004@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
