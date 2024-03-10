@@ -61,7 +61,7 @@ education:
     "Self-Taught Developer ",
     "Bachelor's in Computer Science and Engineering from NIT JAMSHEDPUR",
   ]
-company: ZYCUS
+company: Big Basket
 
 fields_of_interests:
   [
