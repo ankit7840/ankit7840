@@ -78,7 +78,7 @@ technical_background:
   ]
   
 currently_learning: ["Backend-Nodejs, Mern-Stack , and Next-Js"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
 ```
   
